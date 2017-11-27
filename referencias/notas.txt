@@ -1,0 +1,2 @@
+https://dzone.com/articles/functional-programming-in-java-8-part-2-optionals
+https://dzone.com/articles/an-introduction-to-functional-programming-in-java
